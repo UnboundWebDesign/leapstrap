@@ -781,7 +781,7 @@ header p {
 #banner ul li a.button {
   background-color: #FFE788;
 }
-#banner #logo, #logo {
+#banner #logo, .logo {
   position: absolute;
   height: 36px;
   width: 36px;
